@@ -1,0 +1,80 @@
+body {
+  height: 100%;
+  margin: 0;
+}
+.box {
+  width: 100vw;
+  height: 100vh;
+  background-image : url('particles.jpg');
+  background-size: cover;
+}
+
+.box-one {
+  margin-top: 240px;
+  margin-left: 40px;
+  display: inline-block;
+  width: 450px;
+  height: 380px;
+  padding: 20px;
+  background-color: #163b91;
+}
+.box-one-title h1{
+  color: white;
+  font-family: 'Geologica', sans-serif;
+  text-align: left;
+  width: 300px;
+}
+
+.box-one-desc p {
+  width: 420px;
+  color: white;
+  font-family: 'Geologica', sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+
+.box-one-button {
+  margin-top: 30px;
+}
+
+.box-one-button a {
+  font-family: 'Geologica', sans-serif;
+  background-color: white;
+  border-style: none;
+  border-radius: 25px;
+  padding: 10px 30px 10px 30px;
+  text-decoration: none;
+  color: #065da9;
+  font-size: 16px;
+}
+
+.box-one-button a:hover {
+  background-color: #065da9;
+  border-style: none;
+  border-radius: 25px;
+  padding: 10px 30px 10px 30px;
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+
+.box-two {
+  margin-top: 440px;
+  margin-left: 765px;
+  position: absolute;
+  display: inline-block;
+  width: 200px;
+  padding: 20px;
+  background-color: #163b91;
+}
+
+.box-two p{
+  color: white;
+  font-family: 'Geologica', sans-serif;
+  text-align: left;
+  width: 170px;
+}
+
+.box-two a {
+  color: #6495ED;
+}

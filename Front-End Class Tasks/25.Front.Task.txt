@@ -1,0 +1,7 @@
+1. Tables
+2. Svg
+3. Form input attributes
+4. Screen reader - how to enable it and how it works
+5. Tabindex attribute
+6. Replicate webpage from the site created
+7. HTML media

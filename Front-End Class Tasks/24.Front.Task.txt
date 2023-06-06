@@ -1,0 +1,9 @@
+1. Try out description list
+2. How can you associate a label with a form element?
+3. What is the purpose of the select element in HTML forms?
+4. How can you add a placeholder text to an input field?
+5. Create a dropdown list of options using the select element.
+6. Add login, registration and contact us form on the webpage.
+7. What are different inline and block elements?
+8. Create examples of decorative and informative images to explain where alt attribute is necessary or not?
+9. Choose a site to replicate and create markup using the tags we have learnt about.
